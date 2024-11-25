@@ -1,4 +1,4 @@
-module github.com/Jelesy/practicum-module
+module github.com/Jelesy/practicum-module/v2
 
 go 1.23.1
 
