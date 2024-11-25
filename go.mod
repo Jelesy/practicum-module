@@ -1,4 +1,4 @@
-module somemodule
+module practicum-module
 
 go 1.23.1
 
