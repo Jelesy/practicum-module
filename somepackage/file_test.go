@@ -6,6 +6,6 @@ import (
 )
 
 func TestAddInts(t *testing.T) {
-	result := AddInts(3, 4)
+	result := Add(3, 4)
 	assert.Equal(t, 7, result, "they should be equal")
 }
